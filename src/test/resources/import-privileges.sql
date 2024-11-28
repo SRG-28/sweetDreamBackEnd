@@ -1,0 +1,9 @@
+INSERT INTO public.privilege(id,name) VALUES (1,'View_Products');
+INSERT INTO public.privilege(id,name) VALUES (2,'View_Products');
+INSERT INTO public.privilege(id,name) VALUES (3,'Edit_Products');
+INSERT INTO public.privilege(id,name) VALUES (4,'Delete_Products');
+INSERT INTO public.privilege(id,name) VALUES (5,'View_Users');
+INSERT INTO public.privilege(id,name) VALUES (6,'Edit_Users');
+INSERT INTO public.privilege(id,name) VALUES (7,'Delete_Users');
+INSERT INTO public.privilege(id,name) VALUES (8,'View_Orders');
+INSERT INTO public.privilege(id,name) VALUES (9,'Edit_Orders');
